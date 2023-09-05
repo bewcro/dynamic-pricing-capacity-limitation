@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Online Appendix to Dynamic Pricing in an Energy Community
+  Providing Capacity Limitation Services
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Bennevis
+    family-names: Crowley
+    email: bewcro@dtu.dk
+    affiliation: Technical University of Denmark
+    orcid: 'https://orcid.org/0000-0002-9080-3151'
+repository-code: >-
+  https://github.com/bewcro/dynamic-pricing-capacity-limitation
+version: '1.0'
+date-released: '2023-09-05'
